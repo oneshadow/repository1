@@ -1,5 +1,5 @@
 pubilc class GoodsCompareController {
 
     private GoodsProductService goodsProductService;
-    pubilc class HelloWorld{};
+    pubilc class HelloWorld{string[] args};
 }
