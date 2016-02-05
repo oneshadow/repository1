@@ -10,4 +10,12 @@ pubilc class GoodsCompareController {
 	private TopAndBottomService topAndBottomService;
 	private TopAndBottomService topAndBottomService;
 	private TopAndBottomService topAndBottomService;
+	private TopAndBottomService topAndBottomService;
+
+	
+	private TopAndBottomService topAndBottomService;
+	private TopAndBottomService topAndBottomService;
+	private TopAndBottomService topAndBottomService;
+	private TopAndBottomService topAndBottomService;
+	private TopAndBottomService topAndBottomService;
 }
